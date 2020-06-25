@@ -11,3 +11,13 @@ O Pipefy é o Software de Gestão de Processos que torna o trabalho de departame
      Board
       List
        Card 
+       
+ # Passos para começar
+## Clonando o Repositório
+git clone https://github.com/Matheusgfgl/pipefy_clone.git
+
+## Instalando as Dependências
+npm install
+
+## Inicializando o Servidor
+ npm start
